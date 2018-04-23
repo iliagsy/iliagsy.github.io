@@ -25,10 +25,10 @@ The unemployment rate *fell from a peak of* 10% to 4.7% under Barak Obama and th
 
 As the economy approaches full employment, an *astonishing* _pickup_ in productivity would be neede to accomplish that. But Trump-bashes overstate their case too.
 
-They dismiss the optimism of consumers and bosses as sentiment, not substance. They warn that the stock market if dangerously overvalued and that America's expansion, which is in its 102nd month, must soom _falter_.
+They dismiss the optimism of consumers and bosses as sentiment, not substance. They warn that the stock market is dangerously overvalued and that America's expansion, which is in its 102nd month, must soom _falter_.
 
 ### （2）
-Yet the economy is not in *immediate danger*. And the maturity of the business cycle cuts both ways.
+Yet the economy is not in *immediate danger*. And the maturity of the business cycle _cuts both ways_.
 
 It makes a nonsense of Mr Trump's claims to be *the author of American economic success*. But the economy is also capable of some welcome surprises.
 
@@ -44,7 +44,7 @@ The longer the economy keeps growing, moreover, the more *scope* there is for fi
 
 The gap between long-term and short-term interest rate has narrowed, as it tends to before recessions. Yet the evidence for overheating is thin.
 
-Inflation has *trended lower* this year. Wage growth has *picked up* a little, thankfully, but shows few signs of accelarating.
+Inflation has *trended lower* this year. Wage growth has *picked up* a little, thankfully, but shows few signs of accelerating.
 
 Pay would have to increase by quite a lot more before rising inflation is a real worry.
 
@@ -98,3 +98,4 @@ Pay would have to increase by quite a lot more before rising inflation is a real
 * pick up v. = improve, increase
 * show few signs of 有...的迹象
 * ... would have to ... before ... is a real worry.
+* cut both ways 有好效果有坏效果
