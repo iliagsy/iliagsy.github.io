@@ -55,7 +55,7 @@ The *tricky=difficult* part is working out how.
 
 #### English
 
-* pester(烦扰) / coax(劝诱) sb. into doing 两词有区别，但在某些情况下可以互换
+* pester(烦扰) / coax(劝诱) sb. into doing 两词情感上有区别，但在某些情况下可以互换
 * solidify 使坚固
 * to the extent that ... / reduce the extent
 * confer 赋予 = award
@@ -68,7 +68,7 @@ The *tricky=difficult* part is working out how.
 * collective 共同，集体（作为共同体起作用）
 * concentration among... 。。。的集中
 * <主语> ..., adj. though it is, ... 虽然<形容词>
-* flesh out 给...增加细节/论据
+* flesh out (idea) 给...增加细节/论据
 * concern = be about
 * muse = ponder = speculate
 * rather than do sth., ... could do sth.

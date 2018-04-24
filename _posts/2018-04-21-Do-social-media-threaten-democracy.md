@@ -42,6 +42,9 @@ It would be wonderful if such a system helped wisdom and truth rise to the surfa
 Everyone who has scrolled through Facebook knows how, instead of imparting wisdom, the system dishes out compulsive stuff that tends to reinforce people's biases. This aggravates the politics of contempt that took hold, in the United States at least, in the 1990s.
 
 #### English
+* horse-trading: Negotiation, trading, or bargaining conducted in or characterized by a shrewd, judicious manner.
+> political horse-trading
+
 * broadly 大体上 = generally
 * do not do *sth.* so much as do *sth.* 比起做A更做B（效果）
     > The use of social media does not cause division so much as amplify it.
