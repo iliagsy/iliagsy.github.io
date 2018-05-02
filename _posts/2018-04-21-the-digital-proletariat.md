@@ -38,7 +38,7 @@ Might not such systems attract data mercenaries, spamming firms with useless jun
 
 Still, the paper contains essential insights which should frame discussion of data's role in the economy. One concerns the imbalance of power in the market for data.
 
-That stems partly from *concentration among* big internet firms. But it is also because, though data may be extremely valuable *in aggregate*, an individual's personal data typically are not.
+That _stems_ partly _from_ *concentration among* big internet firms. But it is also because, though data may be extremely valuable *in aggregate*, an individual's personal data typically are not.
 
 For one Facebook user to threaten to deprive Facebook of his data is no threat at all. So effective negotiation with internet firms might require collective action: and the formation, perhaps, of a "data-labour union".
 
@@ -55,7 +55,8 @@ The *tricky=difficult* part is working out how.
 
 #### English
 
-* pester(烦扰) / coax(劝诱) sb. into doing 两词情感上有区别，但在某些情况下可以互换
+* stem from = is because of 原因是
+* pester(烦扰) / coax(劝诱) sb. into doing 两词有区别，但在某些情况下可以互换
 * solidify 使坚固
 * to the extent that ... / reduce the extent
 * confer 赋予 = award
