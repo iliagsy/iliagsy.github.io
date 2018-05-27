@@ -134,3 +134,11 @@ The beautiful thing about the collaborative work of art is that it will not pain
 
 15:13
 Thank you.
+
+
+#### English
+* associate ... with ... 把...和...联系在一起
+
+
+#### Associated Talks
+* [Love - you're doing it all wrong](https://www.ted.com/talks/yann_dall_aglio_love_you_re_doing_it_wrong)
