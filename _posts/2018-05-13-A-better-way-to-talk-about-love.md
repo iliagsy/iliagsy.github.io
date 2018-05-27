@@ -7,6 +7,8 @@ categories: TED
 ### A Better Way to Talk about Love
 ##### Mandy Len Catron
 
+##### [TED talk](https://www.ted.com/talks/mandy_len_catron_a_better_way_to_talk_about_love)
+
 OK, so today I want to talk about how we talk about love. And specifically, I want to talk about what's wrong with how we talk about love.
 
 
