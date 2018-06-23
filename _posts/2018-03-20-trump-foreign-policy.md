@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 0320-特朗普时代的外交政策
+categories: the economics
 ---
 
 Many people *find reassurance in* the sober, capable military men who surround him. His chief of stuff, his defence secretary and his national security advisor all understand the horror of war and will stop him from doing anything rash, the argument goes.
