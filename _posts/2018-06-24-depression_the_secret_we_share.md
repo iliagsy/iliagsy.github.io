@@ -18,7 +18,7 @@ categories: ted
 >Valuing one's depression does not prevent a relapse, but it may make the prospect of relapse and even relapse itself easier to tolerate. The question is not so much of finding great meaning and deciding your depression has been very meaningful. It's of seeking that meaning and thinking, when it comes again, "This will be hellish, but I will learn something from it." I have learned in my own depression how big an emotion can be, how it can be more real than facts, and I have found that that experience has allowed me to experience positive emotion in a more intense and more focused way. The opposite of depression is not happiness, but vitality, and these days, my life is vital, even on the days when I'm sad. I felt that funeral in my brain, and I sat next to the colossus at the edge of the world, and I have discovered something inside of myself that I would have to call a soul that I had never formulated until that day 20 years ago when hell came to pay me a surprise visit.
 
 
-#### the experience
+#### The experience
 
 But in 1994, three years later, I found myself losing interest in almost everything. I didn't want to do any of the things I had previously wanted to do, and I didn't know why. The opposite of depression is not happiness, but vitality. And it was vitality that seemed to seep away from me in that moment. Everything there was to do seemed like too much work. I would come home and I would see the red light flashing on my answering machine, and instead of being thrilled to hear from my friends, I would think, "What a lot of people that is to have to call back." Or I would decide I should have lunch, and then I would think, but I'd have to get the food out and put it on a plate and cut it up and chew it and swallow it, and it felt to me like the Stations of the Cross.
 
@@ -40,7 +40,7 @@ There are three things people tend to confuse: depression, grief and sadness. Gr
 People say to me, "Well, is it continuous with normal sadness?" And I say, in a way it's continuous with normal sadness. There is a certain amount of continuity, but it's the same way there's continuity between having an iron fence outside your house that gets a little rust spot that you have to sand off and do a little repainting, and what happens if you leave the house for 100 years and it rusts through until it's only a pile of orange dust. And it's that orange dust spot, that orange dust problem, that's the one we're setting out to address.
 
 
-#### the essential of depression experience
+#### The essential of depression experience
 
 You don't think in depression that you've put on a gray veil and are seeing the world through the haze of a bad mood. You think that the veil has been taken away, the veil of happiness, and that now you're seeing truly. It's easier to help schizophrenics who perceive that there's something foreign inside of them that needs to be exorcised, but it's difficult with depressives, because we believe we are seeing the truth.
 
