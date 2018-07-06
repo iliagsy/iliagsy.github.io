@@ -1,5 +1,5 @@
 ---
-title: depression, the secret we share
+title: Depression, the secret we share
 layout: post
 categories: ted
 ---
