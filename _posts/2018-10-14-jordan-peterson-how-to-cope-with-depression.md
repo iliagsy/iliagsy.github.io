@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jordan Peterson on how to deal with depression and suicidal thoughts-自翻中字
+title: Jordan Peterson on How to Deal with Depression and Suicidal Thoughts
 categories: behavioral psychology
 ---
 
