@@ -1,6 +1,6 @@
 ---
 layout: post
-title: why are rich people so mean? excerpt from wired.com
+title: Why are rich people so mean? Excerpts from wired.com
 categories: wired, social
 ---
 [Why Are Rich People So Mean?](https://www.wired.com/story/why-are-rich-people-so-mean/#intcid=recommendations_wired-right-rail-popular_ed986e5c-2526-45d2-b388-9f41aef89143_cral-top1-3)
