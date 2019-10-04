@@ -17,6 +17,6 @@ The Spanish word aislar means both “to insulate” and “to isolate,” which
 
 * a parade of: a large number of people all going in the same direction
 * insulate: to surround sth. with a material/substance to stop heat/sound/electricity from escaping or entering
-* get ripped off: to cheat sb. (e.g. by charging them too much money for sth.)
+* rip sb. off (passive: get ripped off): to cheat sb. (e.g. by charging them too much money for sth.)
 * **impertinent**: not restrained within due or proper bounds, especially of propriety or good taste
 * propriety: 得体的举止；得体；行为规范
